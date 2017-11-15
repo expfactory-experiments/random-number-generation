@@ -1,0 +1,18 @@
+{
+    "cognitive_atlas_task_id": "trm_4f2417d4a63ae",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/random-number-generation",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "random-number-generation",
+    "name": "Random Number Generation",
+    "reference": ["http://www.sciencedirect.com/science/article/pii/S1053811905001424"],
+    "template": "jspsych",
+    "time": 3
+}
